@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpeak_test_management_suite=globalThis.webpackChunkpeak_test_management_suite||[]).push([[1903],{1912(t){t.exports=JSON.parse('{"blogBasePath":"/tms_documentation/blog","blogTitle":"Blog","authorsListPath":"/tms_documentation/blog/authors"}')}}]);
